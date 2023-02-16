@@ -144,8 +144,7 @@
 			},
 			"core/site-title": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--u-pacifico)",
-					"textDecoration": "none"
+					"fontFamily": "var(--wp--preset--font-family--u-pacifico)"
 				}
 			}
 		},
